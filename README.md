@@ -1,4 +1,4 @@
-# Diaprepes Root Weevil Texas Quarantine Reference
+# European Corn Borer Texas Quarantine Reference
 
 This is a simplified reference guide for the quarantine status of the European corn borer, Ostrinia nubilalis, issued by the Texas Department of Agriculture. 
 
